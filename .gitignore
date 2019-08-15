@@ -1,0 +1,11 @@
+.vs
+MadPay.Common/bin
+MadPay.Common/obj
+MadPay.Data/bin
+MadPay.Data/obj
+MadPay.Presentation/bin
+MadPay.Presentation/obj
+MadPay.Repo/bin
+MadPay.Repo/obj
+MadPay.Services/bin
+MadPay.Services/obj
